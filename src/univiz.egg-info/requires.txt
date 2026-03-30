@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+seaborn
+py7zr
+stream-unzip

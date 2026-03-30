@@ -6,8 +6,7 @@ authors = [
   { name = "Marco Payr" }
 ]
 readme = "README.md"
-license = "GPLv3"
-url = 'https://github.com/marcopayr/univiz'
+license = "GPL-3.0-or-later"
 requires-python = ">=3.10"
 dependencies = [
   "numpy",
@@ -17,6 +16,9 @@ dependencies = [
   "py7zr",
   "stream-unzip"
 ]
+
+[project.urls]
+Homepage = 'https://github.com/marcopayr/univiz'
 
 [build-system]
 requires = ["setuptools", "wheel"]

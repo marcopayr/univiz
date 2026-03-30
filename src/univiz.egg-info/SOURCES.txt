@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/__main__.py
+src/plot_chromatogram.py
+src/read_chromatograms.py
+src/unzip.py
+src/univiz.egg-info/PKG-INFO
+src/univiz.egg-info/SOURCES.txt
+src/univiz.egg-info/dependency_links.txt
+src/univiz.egg-info/requires.txt
+src/univiz.egg-info/top_level.txt
+tests/test_plot_chromatogram.py
+tests/test_read_chromatogram.py
+tests/test_unzip.py
