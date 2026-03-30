@@ -1,0 +1,23 @@
+[project]
+name = "univiz"
+version = "0.1.0"
+description = "Univiz - Unicorn Visualizer: A package for reading and visualizing Aekta FPLC chromatogram data."
+authors = [
+  { name = "Marco Payr" }
+]
+readme = "README.md"
+license = "GPLv3"
+url = 'https://github.com/marcopayr/univiz'
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "seaborn",
+  "py7zr",
+  "stream-unzip"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
