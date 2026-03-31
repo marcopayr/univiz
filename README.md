@@ -13,7 +13,7 @@ This package provides a workflow to extract, read, and visualize chromatograms f
 Clone the repository and install the required dependencies:
 
 ```bash
-pip install .
+git clone https://github.com/marcopayr/univiz.git
 ```
 
 ## Usage
